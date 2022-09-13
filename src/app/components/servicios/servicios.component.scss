@@ -1,0 +1,25 @@
+.contenedorHome{ 
+   min-height: 100vh; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-image: url("../../../assets/img/logo\ 1.jpeg");
+   background-size: 50%;
+   opacity: 0.95;
+   background-repeat: no-repeat;
+   background-position: center center;
+   flex-direction: column;
+   
+   
+}
+.lista{
+    color: rgb(98, 0, 255);
+    font-size: 40px ;
+    background-color: rgba($color: #ffffff, $alpha: 0.5);
+    width: 50%;   
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
